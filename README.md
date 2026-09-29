@@ -1,37 +1,71 @@
 # Olá, eu sou o Marcio 👋
 
-Aprendendo e construindo projetos de automação, IA e desenvolvimento — documentando a jornada aqui no GitHub.
+Aprendendo e construindo projetos de automação, IA, desenvolvimento e segurança ofensiva, documentando minha evolução aqui no GitHub.
 
 ## 🚀 Projetos em destaque
 
-### 🧠 [CHAT_BOOT_2](https://github.com/HenareMarcio/CHAT_BOOT_2)
-Chatbot conversacional com busca semântica local (RAG), usando ChromaDB para indexar uma base de conhecimento e um modelo de IA via OpenRouter para gerar respostas naturais.
-- **Stack:** Python, Chainlit, ChromaDB, OpenRouter
-- Busca vetorial local, sem depender de serviços pagos de embeddings
-- Interface de chat pronta para uso, com tratamento de erros e reconexão automática
+### 🔴 LAB-PENTEST
+Laboratório prático de Pentest documentado do início ao fim, com foco em reconhecimento, exploração, pós-exploração e coleta de evidências em ambientes controlados.
 
-### 🤖 [Sho-AI](https://github.com/HenareMarcio/Sho-AI)
-Projeto com Streamlit e API GPT.
+- **Stack:** Kali Linux, Nmap, Metasploit, Git e GitHub
+- Enumeração e mapeamento de redes
+- Exploração de vulnerabilidades conhecidas
+- Documentação técnica das atividades realizadas
+- Organização de evidências e relatórios
+- Versionamento completo utilizando Git
 
-### 🔧 [dio-lab-open-source](https://github.com/HenareMarcio/dio-lab-open-source)
-Contribuição em projeto open source como parte do lab da Digital Innovation One.
+🔗 https://github.com/HenareMarcio/LAB-PENTEST
 
-## 🛠️ Tecnologias e ferramentas
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### 🧠 CHAT_BOOT_2
+Chatbot conversacional com busca semântica local (RAG), utilizando ChromaDB para indexação de conhecimento e OpenRouter para geração de respostas.
+
+- **Stack:** Python, Chainlit, ChromaDB e OpenRouter
+- Busca vetorial local sem dependência de embeddings pagos
+- Interface conversacional pronta para uso
+- Tratamento de erros e reconexão automática
+
+🔗 https://github.com/HenareMarcio/CHAT_BOOT_2
+
+---
+
+### 🤖 Sho-AI
+Projeto utilizando Streamlit integrado a modelos de IA via API.
+
+🔗 https://github.com/HenareMarcio/Sho-AI
+
+---
+
+### 🔧 dio-lab-open-source
+Contribuição em projeto Open Source realizada durante o laboratório da Digital Innovation One.
+
+🔗 https://github.com/HenareMarcio/dio-lab-open-source
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-377flat&logo=python&logoColor=white
+![Git](https://img.shields.io/badge/-032?style=flat&logo=git&logoColor=white
+![GitHub](https://img.shields.io/badge/-717?style=flat&logo=github&logoColor=white
+![VS Code](https://img.shields.io/badge-007ACC?style=flat&logo=visual-studio-code&logoColor=white
+![Linux](https://img.shields.io/badge/-624?style=flat&logo=linux&logoColor=black
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-lat&logo=kalilinux&logoColor=white
+https://img.shields.io/badge/-Nmap-004170?style=flat
+![Metasploit](https://img.shields.io/badge596CD?style=flat
 
 ## 📚 Em aprendizado
 
-- Sistemas de busca semântica e RAG (Retrieval-Augmented Generation)
-- Integração com modelos de linguagem via API
-- Boas práticas de versionamento com Git/GitHub
+- Pentest e Segurança Ofensiva
+- Sistemas de Busca Semântica e RAG
+- Integração com Modelos de Linguagem
+- Linux e Automação
+- Boas práticas de Git e GitHub
+- Documentação técnica de projetos
 
 ## 📫 Contato
 
-Sinta-se à vontade para abrir uma issue ou conectar por aqui mesmo no GitHub.
+Sinta-se à vontade para explorar meus projetos, abrir uma issue ou trocar experiências através do GitHub.
 
 ---
-⭐️ [HenareMarcio](https://github.com/HenareMarcio)
+
+⭐️ GitHub: https://github.com/HenareMarcio
