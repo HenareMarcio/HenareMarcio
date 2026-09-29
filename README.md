@@ -15,31 +15,29 @@ Aprendendo e construindo projetos de automação, IA, desenvolvimento e seguran�
 
 ## 🔴 LAB-PENTEST
 
-### Active Directory Lab • Kali Linux • Windows Server 2025 • Windows 7 (EternalBlue) • Metasploitable2
+### Active Directory Lab • Kali Linux • Windows Server 2025 • Windows 7 (MS17-010 / EternalBlue) • Metasploitable2
 
 > Laboratório prático de Pentest desenvolvido para estudos de Reconhecimento, Enumeração, Exploração, Pós-Exploração e Documentação Técnica em ambientes Windows e Linux.
 
-https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white
-https://img.shields.io/badge/Windows_Server_2025-0078D6?style=for-the-badge&logo=windows&logoColor=white
-https://img.shields.io/badge/Windows_7-EternalBlue-red?style=for-the-badge
-![Metasploitable2](https://img.shields.io/badge/Metasploitable2style=for-the-badge
-![Git](https://img.shields.io/badge/Git-Versionado-F05032?style=for-the-badge� Objetivos do Laboratório
+### 🎯 Objetivos do Laboratório
 
-✅ Reconhecimento de Rede
+- ✅ Reconhecimento de Rede
+- ✅ Enumeração de Serviços
+- ✅ Active Directory
+- ✅ Exploração MS17-010 (EternalBlue)
+- ✅ Pós-Exploração
+- ✅ Coleta de Evidências
+- ✅ Documentação Técnica
+- ✅ Git e GitHub
 
-✅ Enumeração de Serviços
+### 🖥️ Ambiente
 
-✅ Active Directory
-
-✅ Exploração MS17-010 (EternalBlue)
-
-✅ Pós-Exploração
-
-✅ Coleta de Evidências
-
-✅ Documentação Técnica
-
-✅ Git e GitHub
+| Máquina | Função |
+|----------|----------|
+| Kali Linux | Estação de Pentest |
+| Windows Server 2025 | Active Directory |
+| Windows 7 | Exploração MS17-010 |
+| Metasploitable2 | Enumeração e Exploração |
 
 ### 🔧 Tecnologias
 
@@ -47,8 +45,7 @@ https://img.shields.io/badge/Windows_7-EternalBlue-red?style=for-the-badge
 - Nmap
 - Metasploit Framework
 - Windows Server 2025
-- Windows 7
-- Metasploitable2
+- Active Directory
 - Git
 - GitHub
 - VS Code Remote SSH
@@ -62,15 +59,18 @@ https://github.com/HenareMarcio/LAB-PENTEST
 
 Chatbot conversacional com busca semântica local (RAG), utilizando ChromaDB para indexação de conhecimento e OpenRouter para geração de respostas.
 
-![Python](https://img.shields.iohon-3776AB?style=for-the-badge&logo=python&logoColor=white
-![Chainlit](https://img.shields.io/bt-000000?style=for-the-badge
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6Eor-the-badge
-![OpenRouter](https://img.shields.io/badge/991?style=for-the-badge
+### Tecnologias
+
+- Python
+- Chainlit
+- ChromaDB
+- OpenRouter
+- RAG
 
 ### Recursos
 
 - Busca vetorial local
-- RAG (Retrieval-Augmented Generation)
+- Retrieval-Augmented Generation (RAG)
 - Interface conversacional
 - Integração com LLMs
 - Tratamento de erros
@@ -89,7 +89,7 @@ Projeto utilizando Streamlit integrado a modelos de IA.
 
 ## 🔧 dio-lab-open-source
 
-Contribuição Open Source desenvolvida durante os laboratórios da Digital Innovation One.
+Contribuição Open Source desenvolvida durante o laboratório da Digital Innovation One.
 
 🔗 https://github.com/HenareMarcio/dio-lab-open-source
 
@@ -97,41 +97,58 @@ Contribuição Open Source desenvolvida durante os laboratórios da Digital Inno
 
 # 🛠️ Stack Tecnológica
 
-![Python](https:lds.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-![Linux](https://img.shbadge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badgelilinux&logoColor=white
-![Git](https://img.shields.io/bt-F05032?style=for-the-badge&logo=git&logoColor=white
-![GitHub](https://imgo/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-![VS Code](https://img.shields.io/badge/VS_Code-007or-the-badge&logo=visual-studio-code&logoColor=white
-![Nmap](https://img.shields.io/badge/Nmapstyle=for-the-badge
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD-badge
+### Cybersecurity
+
+- Kali Linux
+- Nmap
+- Metasploit
+- Active Directory
+- Windows Server
+- Windows Security
+
+### Desenvolvimento
+
+- Python
+- APIs
+- Automação
+- RAG
+- IA Generativa
+
+### Ferramentas
+
+- Git
+- GitHub
+- VS Code
+- Linux
+- Hyper-V
 
 ---
 
 # 📚 Atualmente Estudando
 
-```yaml
-Cybersecurity:
-  - Pentest
-  - Active Directory
-  - Privilege Escalation
-  - Windows Internals
-  - Enumeration
-  - Vulnerability Assessment
+## Cybersecurity
 
-Development:
-  - Python
-  - RAG
-  - LLM Integration
-  - APIs
-  - Automation
+- Pentest
+- Active Directory
+- Privilege Escalation
+- Windows Internals
+- Enumeration
+- Vulnerability Assessment
 
-Infrastructure:
-  - Linux
-  - Windows Server
-  - Virtualização
-  - GitOps
-```
+## Desenvolvimento
+
+- Python
+- RAG
+- Integração com LLMs
+- APIs
+- Automação
+
+## Infraestrutura
+
+- Linux
+- Windows Server
+- Virtualização
+- GitOps
 
 ---
 
@@ -139,17 +156,13 @@ Infrastructure:
 
 Construir projetos que demonstrem habilidades práticas em:
 
-🔹 Cybersecurity
-
-🔹 Automação
-
-🔹 Desenvolvimento Python
-
-🔹 Inteligência Artificial
-
-🔹 Infraestrutura
-
-🔹 Active Directory
+- Cybersecurity
+- Pentest
+- Active Directory
+- Automação
+- Python
+- Inteligência Artificial
+- Infraestrutura
 
 ---
 
@@ -157,9 +170,8 @@ Construir projetos que demonstrem habilidades práticas em:
 
 Sinta-se à vontade para explorar meus projetos, abrir uma Issue ou trocar experiências através do GitHub.
 
-### 🌐 GitHub
-
-⭐️ https://github.com/HenareMarcio
+🌐 GitHub:  
+https://github.com/HenareMarcio
 
 ---
 
