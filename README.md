@@ -1,178 +1,286 @@
 # 👨‍💻 Marcio Henare
 
+### IT Support & Infrastructure | Cybersecurity | Python | AI & Automation
+
 ```diff
-+ Cybersecurity Enthusiast
-+ Pentest Lab Builder
-+ AI & Automation Developer
++ Cybersecurity & Pentest Labs
++ Python & Automation
++ AI & RAG
++ Windows & Linux
++ Infrastructure & Networking
 + Always Learning
 ```
 
-Aprendendo e construindo projetos de automação, IA, desenvolvimento e segurança ofensiva, documentando minha evolução através de projetos práticos e laboratórios reais.
+Profissional de TI com experiência em **suporte, infraestrutura, Windows, Microsoft 365 e redes**, atualmente expandindo conhecimentos em **Cybersecurity, Pentest, Python, Inteligência Artificial e automação**.
+
+Meu objetivo é transformar aprendizado em prática através da construção de **laboratórios, ferramentas e projetos reais**, documentando minha evolução no GitHub.
 
 ---
 
-# 🚀 Projetos em Destaque
+## 🧑‍💻 About Me
+
+Tenho experiência profissional em ambientes de TI, atuando com suporte a usuários, troubleshooting, sistemas, redes e infraestrutura.
+
+Atualmente estou direcionando meus estudos para:
+
+- 🔐 Cybersecurity
+- 🕵️ Pentest
+- 🐍 Python & Automation
+- 🤖 Artificial Intelligence
+- 🧠 RAG & LLMs
+- 🖥️ Windows & Linux
+- 🌐 Networking
+- 🏗️ Infrastructure & Virtualization
+
+Gosto de aprender através de **laboratórios práticos, documentação e desenvolvimento de projetos**.
+
+---
+
+# 🚀 Featured Projects
 
 ## 🔴 LAB-PENTEST
 
-### Active Directory Lab • Kali Linux • Windows Server 2025 • Windows 7 (MS17-010 / EternalBlue) • Metasploitable2
+### Active Directory Lab • Kali Linux • Windows Server 2025 • Windows 7 • Metasploitable2
 
-> Laboratório prático de Pentest desenvolvido para estudos de Reconhecimento, Enumeração, Exploração, Pós-Exploração e Documentação Técnica em ambientes Windows e Linux.
+Laboratório autorizado desenvolvido para estudos práticos de **Cybersecurity e Pentest**, envolvendo ambientes Windows e Linux.
 
-### 🎯 Objetivos do Laboratório
+O laboratório permite praticar diferentes etapas de um processo de segurança ofensiva:
 
-- ✅ Reconhecimento de Rede
-- ✅ Enumeração de Serviços
-- ✅ Active Directory
-- ✅ Exploração MS17-010 (EternalBlue)
-- ✅ Pós-Exploração
-- ✅ Coleta de Evidências
-- ✅ Documentação Técnica
-- ✅ Git e GitHub
+### 🎯 Objetivos
+
+- 🔎 Reconhecimento de rede
+- 📡 Enumeração de serviços
+- 🏢 Active Directory
+- 🔐 Análise de vulnerabilidades
+- 💥 Exploração controlada
+- 🧩 Pós-exploração
+- 📋 Coleta de evidências
+- 📝 Documentação técnica
+- 🌐 Administração de ambientes Windows/Linux
+- 🔧 Git & GitHub
 
 ### 🖥️ Ambiente
 
 | Máquina | Função |
-|----------|----------|
+|---|---|
 | Kali Linux | Estação de Pentest |
 | Windows Server 2025 | Active Directory |
-| Windows 7 | Exploração MS17-010 |
-| Metasploitable2 | Enumeração e Exploração |
+| Windows 7 | Laboratório de exploração |
+| Metasploitable2 | Vulnerabilidades e exploração |
 
-### 🔧 Tecnologias
+### 🛠️ Tecnologias
 
 - Kali Linux
 - Nmap
 - Metasploit Framework
-- Windows Server 2025
+- Windows Server
 - Active Directory
+- Windows
+- Linux
 - Git
 - GitHub
-- VS Code Remote SSH
+- VS Code
+- SSH
+- Virtualização
 
-🔗 **Repositório:**  
+🔗 **Repository:**  
 https://github.com/HenareMarcio/LAB-PENTEST
 
 ---
 
-## 🧠 CHAT_BOOT_2
+# 🧠 CHAT_BOOT_2
 
-Chatbot conversacional com busca semântica local (RAG), utilizando ChromaDB para indexação de conhecimento e OpenRouter para geração de respostas.
+Chatbot conversacional desenvolvido em Python utilizando **RAG (Retrieval-Augmented Generation)** e busca semântica local.
 
-### Tecnologias
+O projeto utiliza ChromaDB para indexação vetorial e OpenRouter para integração com modelos de linguagem.
+
+### 🛠️ Technologies
 
 - Python
 - Chainlit
 - ChromaDB
 - OpenRouter
 - RAG
+- LLM
 
-### Recursos
+### ⚙️ Features
 
-- Busca vetorial local
-- Retrieval-Augmented Generation (RAG)
-- Interface conversacional
-- Integração com LLMs
-- Tratamento de erros
+- 🔎 Busca semântica
+- 🧠 Retrieval-Augmented Generation
+- 📚 Base de conhecimento local
+- 💬 Interface conversacional
+- 🤖 Integração com LLMs
+- ⚠️ Tratamento de erros
 
-🔗 https://github.com/HenareMarcio/CHAT_BOOT_2
-
----
-
-## 🤖 Sho-AI
-
-Projeto utilizando Streamlit integrado a modelos de IA.
-
-🔗 https://github.com/HenareMarcio/Sho-AI
+🔗 **Repository:**  
+https://github.com/HenareMarcio/CHAT_BOOT_2
 
 ---
 
-## 🔧 dio-lab-open-source
+# 🤖 Sho-AI
 
-Contribuição Open Source desenvolvida durante o laboratório da Digital Innovation One.
+Projeto experimental utilizando **Python + Streamlit + Inteligência Artificial**.
 
-🔗 https://github.com/HenareMarcio/dio-lab-open-source
+O objetivo é explorar aplicações práticas de interfaces web integradas a modelos de IA.
+
+### 🛠️ Technologies
+
+- Python
+- Streamlit
+- Artificial Intelligence
+
+🔗 **Repository:**  
+https://github.com/HenareMarcio/Sho-AI
 
 ---
 
-# 🛠️ Stack Tecnológica
+# 🔧 dio-lab-open-source
 
-### Cybersecurity
+Projeto desenvolvido durante laboratório da **Digital Innovation One**, explorando conceitos de Git, GitHub e colaboração em projetos Open Source.
+
+🔗 **Repository:**  
+https://github.com/HenareMarcio/dio-lab-open-source
+
+---
+
+# 🛠️ Technology Stack
+
+## 🔐 Cybersecurity
 
 - Kali Linux
 - Nmap
-- Metasploit
+- Metasploit Framework
 - Active Directory
-- Windows Server
 - Windows Security
+- Vulnerability Assessment
+- Pentest Labs
 
-### Desenvolvimento
+## 🐍 Development
 
 - Python
 - APIs
-- Automação
+- Automation
 - RAG
-- IA Generativa
+- LLM Integration
+- Streamlit
+- Chainlit
 
-### Ferramentas
+## 🖥️ Infrastructure
+
+- Windows
+- Windows Server
+- Linux
+- Networking
+- Microsoft 365
+- Virtualization
+- Hyper-V
+- SSH
+
+## 🔧 Tools
 
 - Git
 - GitHub
 - VS Code
-- Linux
-- Hyper-V
+- PowerShell
+- Bash
 
 ---
 
-# 📚 Atualmente Estudando
+# 📚 Currently Learning
 
-## Cybersecurity
+### 🔐 Cybersecurity
 
 - Pentest
 - Active Directory
+- Enumeration
 - Privilege Escalation
 - Windows Internals
-- Enumeration
 - Vulnerability Assessment
+- Security Labs
 
-## Desenvolvimento
+### 🐍 Development & AI
 
 - Python
-- RAG
-- Integração com LLMs
+- Automation
 - APIs
-- Automação
+- RAG
+- LLM Integration
+- Generative AI
 
-## Infraestrutura
+### 🏗️ Infrastructure
 
 - Linux
 - Windows Server
-- Virtualização
-- GitOps
+- Networking
+- Virtualization
+- Git & GitHub
 
 ---
 
-# 📈 Objetivo
+# 📈 Current Focus
 
-Construir projetos que demonstrem habilidades práticas em:
+Estou construindo uma base prática combinando:
+
+```text
+Infrastructure
+      │
+      ├── Windows
+      ├── Linux
+      ├── Networking
+      └── Virtualization
+             │
+             ▼
+       Cybersecurity
+             │
+       ┌─────┴─────┐
+       │           │
+     Pentest       AD
+       │           │
+       └─────┬─────┘
+             ▼
+       Python & Automation
+             │
+             ▼
+        AI / RAG / LLM
+```
+
+Meu objetivo é desenvolver projetos que demonstrem **capacidade prática**, e não apenas conhecimento teórico.
+
+---
+
+# 🎯 Career Direction
+
+Meu foco é continuar evoluindo profissionalmente nas áreas de:
 
 - Cybersecurity
+- Infrastructure
 - Pentest
-- Active Directory
-- Automação
 - Python
-- Inteligência Artificial
-- Infraestrutura
+- Automation
+- Artificial Intelligence
+- Windows & Linux
+- Networking
+
+Busco constantemente transformar novos conhecimentos em **projetos práticos, laboratórios e documentação técnica**.
 
 ---
 
-# 📫 Contato
+# 📊 GitHub Activity
 
-Sinta-se à vontade para explorar meus projetos, abrir uma Issue ou trocar experiências através do GitHub.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenareMarcio&show_icons=true&hide_border=true&theme=transparent)
 
-🌐 GitHub:  
+---
+
+# 📫 Contact
+
+### 🌐 GitHub
+
 https://github.com/HenareMarcio
 
+### 💼 LinkedIn
+
+//www.linkedin.com/in/marcio-henare-079320160
+
 ---
 
-> "Aprender, documentar, automatizar e evoluir todos os dias."
+> **"Aprender, construir, documentar e evoluir todos os dias."**
